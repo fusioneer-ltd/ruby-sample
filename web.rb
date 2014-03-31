@@ -15,3 +15,7 @@ end
 get '/route' do
   'OMG defined twice?!!'
 end
+
+get '/work' do
+  'We work hard!'
+end
