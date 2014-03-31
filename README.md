@@ -15,6 +15,14 @@ foreman start
 
 Your app should now be running on [localhost:5000](http://localhost:5000/).
 
+## Purpose of this repo
+
+Purpose of this repo is to illustrate the [giflow workflow](http://nvie.com/posts/a-successful-git-branching-model/).
+
+![git decor](git_decorate.jpg?raw=true)
+
+Doesn't this look clearer?
+
 ## Original authors
 
 * @markpundsack
