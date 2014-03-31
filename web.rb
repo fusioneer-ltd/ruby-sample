@@ -1,5 +1,9 @@
 require 'sinatra'
 
 get '/' do
-  'Hello, world'
+  redirect to('/hello/World')
+end
+
+get '/hello/:name' do
+  "Hello #{params[:name]}!"
 end
