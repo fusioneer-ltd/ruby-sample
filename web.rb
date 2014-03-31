@@ -12,6 +12,6 @@ get '/route' do
   'This route will cause an error'
 end
 
-get '/route' do
+get '/route_second' do
   'OMG defined twice?!!'
 end
